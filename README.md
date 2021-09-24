@@ -1,5 +1,5 @@
 
-###### **Site responsivo de HeadPhone** 🎧
+###### **SITE RESPONSIVO DE HEADPHONE** 🎧
 
 - Página  de vendas de Headphones usando **HTML**, **CSS** e **JAVASCRIPT**. 
 - Interface escura;
